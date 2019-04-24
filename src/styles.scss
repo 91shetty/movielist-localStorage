@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+}
+
+input {
+  padding: 2.5px 7.5px;
+  margin: 0 5px;
+}
+
+.row {
+  width: 90%;
+  .row {
+    width: 100%;
+  }
+}
+
+.list-group-item {
+  width: 300px;
+}
+
+#errors {
+  color: red;
+}
